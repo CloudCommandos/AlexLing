@@ -1,0 +1,13 @@
+git clone - clone github repo
+
+git branch - list all branch
+
+git branch -c 'test' - create 'test' branch
+
+git branch -d 'test' - delete 'test' branch
+
+git checkout - switch branch
+
+git checkout 'test' - switch from current branch to 'test' branch
+
+git push origin test - push commit from 'test' branch
