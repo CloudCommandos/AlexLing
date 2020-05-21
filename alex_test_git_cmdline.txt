@@ -10,4 +10,12 @@ git checkout - switch branch
 
 git checkout 'test' - switch from current branch to 'test' branch
 
+git add - add changes to commit
+
+git rm 'file name'  --cached - remove changes from commit but keep the changes
+
+git commit --dry-run - commit changes in dry run mode
+
+git commit - commit the changes
+
 git push origin test - push commit from 'test' branch
